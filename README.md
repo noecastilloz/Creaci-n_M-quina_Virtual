@@ -1,11 +1,13 @@
 ##Creación de dos Máquinas virtuales una dentro de la otra.
 
-![logo personal](https://github.com/noecastilloz/Creaci-n_M-quina_Virtual/blob/main/imagenes.py/Mi%20logo1.png)
+![logo personal](https://github.com/noecastilloz/Creaci-n_M-quina_Virtual/blob/main/imagenes.py/00.png)
 
 **Requisito**
 
 Computadora
+
 Tener cuenta de Azure
+
 Descargar escritorio remoto de Microsoft en la Microsoft store
 
 ************************************************
@@ -14,7 +16,7 @@ Descargar escritorio remoto de Microsoft en la Microsoft store
 
 1.- Entras con tu usuario y contraseña al portal de Azure en la ventana principal buscas el icono de Máquinas Virtuales si no esta lo tecleas un su buscador de recursos.
 
-![inicio](https://github.com/noecastilloz/Creaci-n_M-quina_Virtual/blob/main/imagenes.py/1.jpg)
+![inicio](imagenes.py\1.jpg)
 
 Una vez seleccionado Máquinas virtuales se abre una ventana nueva como esta.
 
