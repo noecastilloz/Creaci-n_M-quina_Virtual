@@ -12,7 +12,7 @@ Descargar escritorio remoto de Microsoft en la Microsoft store
 
 ************************************************
 
-##Intrucciones
+Intrucciones
 
 1.- Entras con tu usuario y contraseña al portal de Azure en la ventana principal buscas el icono de Máquinas Virtuales si no esta lo tecleas un su buscador de recursos.
 
