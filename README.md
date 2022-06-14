@@ -1,6 +1,6 @@
 ##Creación de dos Máquinas virtuales una dentro de la otra.
 
-![logo personal](https://github.com/noecastilloz/Creaci-n_M-quina_Virtual/blob/main/imagenes.py/Mi%20logo1.png)
+![logo personal](https://github.com/noecastilloz/Creaci-n_M-quina_Virtual/blob/main/imagenes.py/Mi%20logo3.png)
 
 **Requisito**
 
